@@ -3,6 +3,7 @@
 # zoom - gif to avatar
 ## Позволяет поставить гифку на аватарку в Zoom 
 #### Allows you to set a gif on your Zoom profile picture 
+#Автор - pozhiloy-enotik
 
 <h1 align="center">Установка 🚀 </h1>
 
